@@ -14,7 +14,7 @@ module.exports = {
       },
       {
         id_kategori: uuidv4(),
-        nama_kategori: 'Ibadah Pemuda / Youth',
+        nama_kategori: 'Ibadah Pemuda',
         createdAt: new Date(),
         updatedAt: new Date()
       },
